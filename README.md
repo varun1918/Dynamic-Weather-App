@@ -9,10 +9,10 @@ Error Handling: Provides clear messages for invalid city entries and ensures acc
 
 The key features of the Dynamic Weather App:
 
-1. Real-Time Updates:* Integrates with OpenWeatherMap API to fetch and display current weather conditions.
+1. Real-Time Updates: Integrates with OpenWeatherMap API to fetch and display current weather conditions.
    
-2. Error Handling:* Provides clear feedback for invalid city entries, ensuring a smooth user experience.
+2. Error Handling: Provides clear feedback for invalid city entries, ensuring a smooth user experience.
 
-3. Dynamic Display:* Updates weather information dynamically including temperature, humidity, wind speed, and weather icons based on the user-entered city.
+3. Dynamic Display: Updates weather information dynamically including temperature, humidity, wind speed, and weather icons based on the user-entered city.
 
-4. Intuitive UI:* User-friendly interface with intuitive input fields and responsive buttons for easy interaction.
+4. Intuitive UI: User-friendly interface with intuitive input fields and responsive buttons for easy interaction.
